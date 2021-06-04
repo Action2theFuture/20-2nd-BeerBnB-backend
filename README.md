@@ -24,7 +24,7 @@
 ### 적용 기술
 
 > - Front-End : React.js, sass, slick, react-modal
-> - Back-End : Python, Django web framework, My SQL, Bcrypt, hmac, hashlib, pyjwt, SMPT, Threading, S3, Naver SMS API, Kakao Login API, Googlemap API
+> - Back-End : Python, Django web framework, My SQL, Bcrypt, hmac, hashlib, pyjwt, SMPT, S3, Naver SMS API, Kakao Login API, Googlemap API
 > - Common : POSTMAN, Insomnia, RESTful API, Docker, EC2, RDS
 
 
