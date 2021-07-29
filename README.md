@@ -1,7 +1,6 @@
 ## IKEA Clone Project
 
 - 세계 최대의 숙박 공유 서비스 사이트 [에어비앤비](https://www.airbnb.co.kr/) 클론 프로젝트
-- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/20-2nd-BeerBnB-backend)
 
 ### 개발 인원 및 기간
 
